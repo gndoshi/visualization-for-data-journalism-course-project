@@ -1,7 +1,7 @@
 # Using Plotly For Visualization: Final Project for Course
 
-## Important Note: For this project, I have used Plotly. Thus, since GitHub doesn't directly render the plots in the notebooks, I have provided 13 Final Plots as additional attachments in this repository. Also, to go through my storytelling process and how I landed up utilising these plots, please visit the following link to view a nice rendered version of this notebook which includes all the plots including the ones where I chose to experiment. Here is the link: https://nbviewer.jupyter.org/github/gndoshi/visualization-for-data-journalism-course-project/blob/master/utf-8%27%27final_assignment%20%281%29.ipynb
-## It will give you an idea of how I went about exploring the data. Thank you.  
+## Important Note: For this project, I have used Plotly. Thus, since GitHub doesn't directly render the plots in the notebooks, I have provided 13 Final Plots as additional attachments in this repository. Also, to go through my storytelling process and how I explored the data to finally create the 'final plots', please visit the following link to view a nice rendered version of this notebook which includes all the plots including the ones where I chose to experiment. Here is the link: https://nbviewer.jupyter.org/github/gndoshi/visualization-for-data-journalism-course-project/blob/master/utf-8%27%27final_assignment%20%281%29.ipynb
+
 
 This was the final project for the Visualization for Data Journalism course offered by the University of Illinois on Coursera. 
 
