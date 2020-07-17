@@ -7,7 +7,7 @@ This was the final project for the Visualization for Data Journalism course offe
 
 Dataset — Airline Delay Causes. This data set consists of on-time statistics for airlines in the United States. This data set is freely available from The US Department of Transportation: http://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp.
 
-The Data and column labels are explained in the "Project Brief_Using_plotly_for_data_visualization" PDF document. 
+The Data and column labels are explained in the "Project Brief_Using_plotly_for_data_visualization" PDF document provided in the repository. 
 
 For the purpose of this assignment - data set of entries from February 2009 to February 2019 was downloaded and used.
 
